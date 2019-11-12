@@ -43,7 +43,7 @@ Algorithms, randomness, simulations, parallel processing
 
 ## Learning Outcomes
 
-Understand the what simulations do and why you'd
+Understand what simulations do and why you'd
 have computers do them.
 
 ## Equipment
@@ -56,7 +56,7 @@ of 10 tiles in at most 48 steps. The script uses pdflatex and is written in
 python3.
 
 For the tiles, you can really use anything. Mark the first tile with
-"Start" ad the last with "Finish".  Lay parallel tracks of tiles for
+"Start" and the last with "Finish".  Lay parallel tracks of tiles for
 larger groups of participants.
 
 ## Group Size
@@ -70,19 +70,21 @@ Approximately 15-20 minutes.
 ## Tips
 
   - The process is slower than you'd imagine.  Be conservative in the
-    number of tiles; between a river length of 6 to 8 tiles is more
+    number of tiles; a river length of 6 to 8 tiles is more
     than sufficient.
 
   - It can help to start the activity first with one participant as an
     example (e.g. one of the older kids), then include the
-    others. Especially if you have a lot of so participants, or if
+    others, especially if you have a lot of so participants, or if
     they are very young.
   
   - Setup the tiles with plenty of space to accommodate anybody.
 
   - Although tiles can be made of anything, if you can have something
     that stays in place better than a piece of paper, that's always a
-    good idea.
+    good idea.  
+    
+  - It can be helpful to have the forward direction indicated by an arrow on the tiles.
 
   - Unfortunately, there always seems to be some recent event to which
     you can related this activity.  E.g., just on November 11th, 2019,
