@@ -4,7 +4,7 @@ Simulate a chemical spill in a river using people as "chemicals"
 
 ## Extended Description
 
-Volunteers from the audience are the chemicals in the spill.  Tiles
+Participants (can be volunteers from a larger audience) are the chemicals in the spill.  Tiles
 are laid out in a line on the floor to represent the
 river. The first tile is where the "chemicals" enter the river. The last
 tile is a larger river, a lake, the sea, or the ocean (call it
